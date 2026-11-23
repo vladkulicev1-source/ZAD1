@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ZAD1
 {
+    // Добавил комментарий для проверки push
     //Объявление интерфейсов
     interface Ix
 
